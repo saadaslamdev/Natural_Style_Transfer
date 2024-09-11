@@ -63,4 +63,4 @@ Run `app.py`:
     $ streamlit run app.py
 ```
 
-<img src="" width="700"/>
+![](data/example-images/StreamLit-View.JPG)
