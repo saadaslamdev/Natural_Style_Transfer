@@ -58,4 +58,9 @@ Neural style transfer is a technique that is used to take two images—a content
 
 Following is the web app view of the project where you can upload your content and style images, edit the weights and iterations, and get the result.
 
+Run `app.py`:
+```
+    $ streamlit run app.py
+```
+
 <img src="" width="700"/>
